@@ -254,6 +254,10 @@ After switching MetaMask to Kovan, deploy the contracts as before and copy/keep 
 ### KOVAN NETWORK TRANSACTION
 ![alt text](https://github.com/natyrrr/serenity4solidity/blob/main/screenshots/contract%203%20kovan%20network.png)
 
+### FAKENOW
+
+![alt text](https://github.com/natyrrr/serenity4solidity/blob/main/screenshots/fakenow.png)
+
 ### FINAL BALANCES ON KOVAN
 
 ![alt text](https://github.com/natyrrr/serenity4solidity/blob/main/screenshots/contract%203%20final%20transaction.png)
